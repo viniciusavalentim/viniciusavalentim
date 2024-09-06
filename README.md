@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmete sou da área de programação
-- 🌱 Estudo c#, HTMl e CSS
+-  Atualmete faço estágio em desenvolvimento WEB
+-  Estudo .NET, ANGULAR e MongoDB
 
 
 <div align="center">
